@@ -44,4 +44,8 @@ Inari 儿子（Tsunami）
 
 Haku 白
 
+049
+
+anko 红豆
+
 

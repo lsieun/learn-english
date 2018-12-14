@@ -48,6 +48,9 @@ Water Dragon blast no Jutsu
 Water Explosion no Jutsu
 分身大爆破
 
+kekkei genkai 血継限界
+A kekkei genkai (血継限界, Literally meaning: Bloodline Limit) is an anomaly of the DNA that allows the wielder(使用者) to use unique techniques. A kekkei genkai's name describes both the anomaly and the resulting technique. Most kekkei genkai are passed down between generations of a clan, an exception being Hashirama Senju's Wood Release.
+
 ## ton
 
 **Katon**  
