@@ -4,7 +4,7 @@ URL: [Breaking News: IBM is Buying Red Hat for $34 Billion](https://itsfoss.com/
 
 IBM and Red Hat have inked the deal. IBM is **acquiring** Red Hat for approximately $34 billion in order to become the number one hybrid cloud provider in the world.
 
-![](images/ibm-acquires-red-hat.png)
+![ibm-acquires-red-hat](images/ibm-acquires-red-hat.png)
 
 If you think open source projects doesn’t make money, it’s time to think again. A few months back Microsoft bought GitHub for $7.5 billion. SUSE Enterprise Linux was sold for $2.5 billion. Today IBM announced that it is buying Red Hat for approximately $34 billion.
 
