@@ -1,0 +1,5 @@
+# ill
+
+- ailing
+  - 有病的；体弱的 ill/sick and not improving
+  - 处境困难的；每况愈下的 having problems and getting weaker
