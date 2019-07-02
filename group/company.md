@@ -21,6 +21,7 @@
 - coworker
   - 合作者；同工；共同工作者 One who works with another; a fellow worker.
 
-
+- backlog
+  - 积压的工作 a quantity of work that should have been done already, but has not yet been done
 
 

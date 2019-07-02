@@ -13,4 +13,7 @@ The overthrow of the military regime was followed by a period of anarchy.
 There was complete anarchy in the classroom when their usual teacher was away.
 任课老师不在时，班上一片混乱。
 
+- autonomous
+  - 自治的；有自治权的 able to govern itself or control its own affairs
+  - 自主的；有自主权的 able to do things and make decisions without help from anyone else
 

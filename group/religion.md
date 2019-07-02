@@ -160,3 +160,10 @@
 
 - trivial
   - 不重要的；琐碎的；微不足道的 not important or serious; not worth considering
+
+- lotus position
+  - （尤指冥想或做瑜伽时）跏趺坐，莲花坐 a way of sitting with your legs crossed, used especially when people meditate or do yoga
+
+![lotus_position](../images/lotus_position.jpg)
+
+
