@@ -32,6 +32,9 @@
   - 教练；导师 **a person whose job is to teach sb a practical skill or sport** 这是一种广泛的解释，适用于“各种技能”
   - （大学）讲师 **a teacher** below the rank of **assistant professor** at a college or university 这是从“大学”的角度来说一个人的职位
 
+## 时间
 
+- semester
+  - 学期（一学年分两个学期） one of the two periods that the school or college year is divided into
 
 

@@ -13,3 +13,14 @@
   - 秘密的；保密的；外人不得而知的 known about by only a few people; kept hidden from others
   - （指行为与习惯）暗中进行的，未公开的，隐秘的 used to describe **actions** and **behaviour** that you do not tell other people about
 
+## verb
+
+- slack
+  - 懈怠；怠惰；偷懒 to work less hard than you usually do or should do
+
+- coworker
+  - 合作者；同工；共同工作者 One who works with another; a fellow worker.
+
+
+
+
