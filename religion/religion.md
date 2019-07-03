@@ -146,20 +146,7 @@
 
 ## 困境
 
-- ailment
-  - 轻病；小恙 an illness that is not very serious
 
-- adversity
-  - 困境；逆境 a difficult or unpleasant situation
-
-- ordeal
-  - ~ (of sth/of doing sth) 磨难；折磨；煎熬；严酷的考验 a difficult or unpleasant experience
-
-- travail
-  - 艰苦劳动；煎熬；艰辛；痛苦 an unpleasant experience or situation that involves a lot of hard work, difficulties and/or suffering
-
-- trivial
-  - 不重要的；琐碎的；微不足道的 not important or serious; not worth considering
 
 - lotus position
   - （尤指冥想或做瑜伽时）跏趺坐，莲花坐 a way of sitting with your legs crossed, used especially when people meditate or do yoga

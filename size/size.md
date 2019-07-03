@@ -10,3 +10,12 @@ wholesale prices
 the wholesale slaughter of innocent people
 对无辜人民的大屠杀
 
+- mega
+  - 巨大的；极佳的 very large or impressive
+
+The song was a mega hit last year.
+这首歌是去年很热门的歌曲。
+
+megazord 佐德；战神金刚;超级佐德
+
+
